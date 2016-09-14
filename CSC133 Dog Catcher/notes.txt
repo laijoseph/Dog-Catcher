@@ -1,0 +1,5 @@
+public Dog(Point p, Color c, int size, int speed, int dir, int scratches)
+
+public Cat(Point p, Color c, int size, int speed, int dir)
+
+
